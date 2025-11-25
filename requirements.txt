@@ -1,0 +1,13 @@
+carla
+langchain
+ollama
+huggingface_hub
+transformers
+sentencepiece
+openai
+numpy
+pandas
+matplotlib
+accelerate
+bitsandbytes
+langchain_community
